@@ -2,4 +2,4 @@
 My anonymized resume iterations.
 
 # Anonymous Resume
-![](AnonResume.png)
+![](AnonResume-1.png)
